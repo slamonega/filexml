@@ -28,7 +28,7 @@
         <archivo nombre="videho.mp4" />
         <archivo nombre="video.mp4" />
         <archivo nombre="www.urbo.cc-main (1).zip" />
-    <interfaz github nombre="interfaz github">
+    <directorio nombre="interfaz github">
         <archivo nombre="index2.html" />
         <archivo nombre="index2u.html" />
         <archivo nombre="indexgoogledrive.html" />
@@ -45,23 +45,23 @@
         <archivo nombre="logwo.jpg" />
         <archivo nombre="readme (copia).md" />
         <archivo nombre="readme.md" />
-    <Alta Técnica nombre="Alta Técnica">
-    <Sistemas de Vivienda nombre="Sistemas de Vivienda">
+    <directorio nombre="Alta Técnica">
+    <directorio nombre="Sistemas de Vivienda">
         <archivo nombre="readme.md" />
-    </Sistemas de Vivienda>
-    </Alta Técnica>
-    <demo nombre="demo">
-    <demo2 nombre="demo2">
-    <demo3 nombre="demo3">
-    <demo4 nombre="demo4">
-    <demo5 nombre="demo5">
+    </directorio>
+    </directorio>
+    <directorio nombre="demo">
+    <directorio nombre="demo2">
+    <directorio nombre="demo3">
+    <directorio nombre="demo4">
+    <directorio nombre="demo5">
         <archivo nombre="plano.jpg" />
-    </demo5>
-    </demo4>
-    </demo3>
-    </demo2>
-    </demo>
-    <directorio xml nombre="directorio xml">
+    </directorio>
+    </directorio>
+    </directorio>
+    </directorio>
+    </directorio>
+    <directorio nombre="directorio xml">
         <archivo nombre="1-" />
         <archivo nombre="directorio.xml" />
         <archivo nombre="FireShot Capture 039 - Explorador de Directorios - .png" />
@@ -70,31 +70,31 @@
         <archivo nombre="untdeitled" />
         <archivo nombre="untidetled.html" />
         <archivo nombre="untitled.html" />
-    </directorio xml>
-    <Los Juegos que Jugamos nombre="Los Juegos que Jugamos">
+    </directorio>
+    <directorio nombre="Los Juegos que Jugamos">
         <archivo nombre="readme.md" />
-    </Los Juegos que Jugamos>
-    <Terminalidad Educativa nombre="Terminalidad Educativa">
+    </directorio>
+    <directorio nombre="Terminalidad Educativa">
         <archivo nombre="readme.md" />
-    </Terminalidad Educativa>
-    </interfaz github>
-    <notebooks nombre="notebooks">
-    <Sentinel-2-main nombre="Sentinel-2-main">
+    </directorio>
+    </directorio>
+    <directorio nombre="notebooks">
+    <directorio nombre="Sentinel-2-main">
         <archivo nombre="README.md" />
-    <code nombre="code">
+    <directorio nombre="code">
         <archivo nombre="sentinel notebooks.zip" />
-    <0 - primeros pasos nombre="0 - primeros pasos">
+    <directorio nombre="0 - primeros pasos">
         <archivo nombre="0_Primeros_pasos.ipynb" />
-    </0 - primeros pasos>
-    <1 - Estructuras de datos nombre="1 - Estructuras de datos">
+    </directorio>
+    <directorio nombre="1 - Estructuras de datos">
         <archivo nombre="1-Estructuras de datos.ipynb" />
-    </1 - Estructuras de datos>
-    <2 - Imagenes nombre="2 - Imagenes">
+    </directorio>
+    <directorio nombre="2 - Imagenes">
         <archivo nombre="2 - Imagenes.ipynb" />
-    </2 - Imagenes>
-    <3 - Colecciones de imagenes nombre="3 - Colecciones de imagenes">
+    </directorio>
+    <directorio nombre="3 - Colecciones de imagenes">
         <archivo nombre="3-Colecciones de imagenes.ipynb" />
-    <datos nombre="datos">
+    <directorio nombre="datos">
         <archivo nombre="parcela_demo.cpg" />
         <archivo nombre="parcela_demo.dbf" />
         <archivo nombre="parcela_demo.prj" />
@@ -107,40 +107,40 @@
         <archivo nombre="parcelas_demo.qpj" />
         <archivo nombre="parcelas_demo.shp" />
         <archivo nombre="parcelas_demo.shx" />
-    </datos>
-    </3 - Colecciones de imagenes>
-    <4 - Graficando resultados nombre="4 - Graficando resultados">
+    </directorio>
+    </directorio>
+    <directorio nombre="4 - Graficando resultados">
         <archivo nombre="4- Graficando resultados.ipynb" />
-    <datos nombre="datos">
+    <directorio nombre="datos">
         <archivo nombre="parcelas_grafico.cpg" />
         <archivo nombre="parcelas_grafico.dbf" />
         <archivo nombre="parcelas_grafico.prj" />
         <archivo nombre="parcelas_grafico.qpj" />
         <archivo nombre="parcelas_grafico.shp" />
         <archivo nombre="parcelas_grafico.shx" />
-    </datos>
-    </4 - Graficando resultados>
-    <5 - Exportando resultados nombre="5 - Exportando resultados">
+    </directorio>
+    </directorio>
+    <directorio nombre="5 - Exportando resultados">
         <archivo nombre="5.- Exportando resultados.ipynb" />
-    <datos nombre="datos">
+    <directorio nombre="datos">
         <archivo nombre="area.cpg" />
         <archivo nombre="area.dbf" />
         <archivo nombre="area.prj" />
         <archivo nombre="area.qpj" />
         <archivo nombre="area.shp" />
         <archivo nombre="area.shx" />
-    </datos>
-    </5 - Exportando resultados>
-    </code>
-    </Sentinel-2-main>
-    </notebooks>
-    <www.agrotecnica.ar nombre="www.agrotecnica.ar">
+    </directorio>
+    </directorio>
+    </directorio>
+    </directorio>
+    </directorio>
+    <directorio nombre="www.agrotecnica.ar">
         <archivo nombre="index.html" />
         <archivo nombre="video.mp4" />
-    <assets nombre="assets">
+    <directorio nombre="assets">
         <archivo nombre="bundle.js" />
         <archivo nombre="main.css" />
-    <img nombre="img">
+    <directorio nombre="img">
         <archivo nombre="03-citizen-poi-watche22r.png" />
         <archivo nombre="05-connect-community-phone2.png" />
         <archivo nombre="1 (copia).png" />
@@ -163,11 +163,11 @@
         <archivo nombre="new_ios_logo (copia).png" />
         <archivo nombre="pdf-icon.png" />
         <archivo nombre="sensor.wepp" />
-    <blockquotes nombre="blockquotes">
+    <directorio nombre="blockquotes">
         <archivo nombre="bq-dark.png" />
         <archivo nombre="bq-light.png" />
-    </blockquotes>
-    <marketing nombre="marketing">
+    </directorio>
+    <directorio nombre="marketing">
         <archivo nombre="03-citizen-poi-watcher.png" />
         <archivo nombre="05-connect-community-phone.png" />
         <archivo nombre="app-button-android.png" />
@@ -180,11 +180,11 @@
         <archivo nombre="habitatlogo.png" />
         <archivo nombre="new_ios_logo.png" />
         <archivo nombre="new_ios_screens.png" />
-    </marketing>
-    </img>
-    </assets>
-    </www.agrotecnica.ar>
-    <xfs nombre="xfs">
+    </directorio>
+    </directorio>
+    </directorio>
+    </directorio>
+    <directorio nombre="xfs">
         <archivo nombre="20210911_040611.jpg" />
         <archivo nombre="20210911_040623.jpg" />
         <archivo nombre="20220226_170944.jpg" />
@@ -199,6 +199,6 @@
         <archivo nombre="20230302_200705.jpg" />
         <archivo nombre="90747b40-322a-44f9-b102-1b6c59608c2f.jpeg" />
         <archivo nombre="IMG_6629.JPG" />
-    </xfs>
+    </directorio>
     </directorio>
 </arbol>
