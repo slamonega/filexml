@@ -1,0 +1,18 @@
+<directories>
+    <directory path="">
+        <directory name="carpeta1">
+            <file name="archivo1.txt" size="1024" />
+            <file name="archivo2.txt" size="2048" />
+        </directory>
+        <directory name="carpeta2">
+            <file name="imagen.jpg" size="5120" />
+        </directory>
+        <file name="documento.pdf" size="4096" />
+    </directory>
+    <directory path="/carpeta1">
+        <file name="subarchivo1.txt" size="3072" />
+    </directory>
+    <directory path="/carpeta2">
+        <file name="subarchivo2.jpg" size="10240" />
+    </directory>
+</directories>
