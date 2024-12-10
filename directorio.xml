@@ -1,77 +1,204 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <arbol nombre="raiz">
     <directorio nombre=".">
+        <archivo nombre="010022-00029-HEADER-IMAGE-WEBSITES-FIELD-HUB-1920x800.jpg" />
+        <archivo nombre="242383459_10159785080139087_4024279359855798508_n.jpg" />
+        <archivo nombre="41oEvIuXhiL._AC_UF894,1000_QL80_.jpg" />
+        <archivo nombre="465571110_10236558370598230_694347577966862588_n.jpg" />
+        <archivo nombre="Captura de pantalla de 2024-08-25 18-58-10.png" />
+        <archivo nombre="CF Lineart-Roadmap-v9.webp" />
+        <archivo nombre="dibujo.svg" />
         <archivo nombre="directorio.xml" />
+        <archivo nombre="D_NQ_NP_2X_755675-MLA52009195893_102022-F.webp" />
+        <archivo nombre="Farmscape-Update-Mar2023-v2 1-1.webp" />
+        <archivo nombre="FireShot Capture 023 - OneSoil Yield App - Simple Precision Farming - app.yield.onesoil.ai.png" />
+        <archivo nombre="FireShot Capture 024 - Agrotecnica.ar provee de sensores, datos satelitales y conectividad par_ - .png" />
         <archivo nombre="generar_directorio.sh" />
-    <Acceso a Terrenos nombre="Acceso a Terrenos">
-        <archivo nombre="terrenosborrador.jpg" />
-        <archivo nombre="terrenos.jpg" />
-    </Acceso a Terrenos>
-    <Alimentación Saludable nombre="Alimentación Saludable">
-    <Manuales Soldador nombre="Manuales Soldador">
-        <archivo nombre="manual_catalogo soldadura.pdf" />
-        <archivo nombre="Manual_de_Soldadura_INDURA.pdf" />
-        <archivo nombre="Procesos básicos de soldadura.pdf" />
-        <archivo nombre="SOLDADURA DE ARCO ELECTRICO.pdf" />
-    </Manuales Soldador>
-    </Alimentación Saludable>
-    <Educación Superior nombre="Educación Superior">
-        <archivo nombre="Cartilla Estimulación Cognitiva Adultos.pdf" />
-    </Educación Superior>
-    <Planos de Cosas nombre="Planos de Cosas">
-        <archivo nombre="terrenos.jpg" />
-    </Planos de Cosas>
-    <Reparar y Embellecer nombre="Reparar y Embellecer">
-        <archivo nombre="243702691_2469902443142429_6185624344846021989_n.jpg" />
-    </Reparar y Embellecer>
-    <Sistemas Constructivos de Vivienda nombre="Sistemas Constructivos de Vivienda">
-    <Casa de Barro - Sistema Belanko nombre="Casa de Barro - Sistema Belanko">
-        <archivo nombre="La casa de Barro.pdf" />
-    </Casa de Barro - Sistema Belanko>
-    <Sistema Beno nombre="Sistema Beno">
-        <archivo nombre="2º Taller armado de base vivienda desarmable - CEVE.pdf" />
-        <archivo nombre="Taller armado de base vivienda desarmable - CEVE.pdf" />
-    <Fotos nombre="Fotos">
-        <archivo nombre="11.jpg" />
-        <archivo nombre="1.jpg" />
-        <archivo nombre="22.jpg" />
-        <archivo nombre="29.JPG" />
-        <archivo nombre="44.jpg" />
-        <archivo nombre="45.jpg" />
-        <archivo nombre="6.jpg" />
-        <archivo nombre="8.jpg" />
-        <archivo nombre="Vivienda - placas 032.jpg" />
-    </Fotos>
-    <Planos y Costos nombre="Planos y Costos">
-        <archivo nombre="Estructuras La plata 1 formato PDF.pdf" />
-        <archivo nombre="Estructuras La plata 2 formato PDF.pdf" />
-        <archivo nombre="Estructuras La plata 3 formato PDF.pdf" />
-        <archivo nombre="Planta La Plata.jpg" />
-        <archivo nombre="vivienda Costos.xls" />
-    </Planos y Costos>
-    </Sistema Beno>
-    </Sistemas Constructivos de Vivienda>
+        <archivo nombre="index.html" />
+        <archivo nombre="infografia-iot.svg" />
+        <archivo nombre="intro-web-es.png.webp" />
+        <archivo nombre="Layer_1 (10).svg" />
+        <archivo nombre="logogit.21e5d15b.svg" />
+        <archivo nombre="logo.png" />
+        <archivo nombre="ndvi_resized-1400x725.jpg" />
+        <archivo nombre="nebraska-farm-bureau-spacex.jpg" />
+        <archivo nombre="palihue.png" />
+        <archivo nombre="parqueecologico.png" />
+        <archivo nombre="sentinelupscale.jpg" />
+        <archivo nombre="videho.mp4" />
+        <archivo nombre="video.mp4" />
+        <archivo nombre="www.urbo.cc-main (1).zip" />
+    <interfaz github nombre="interfaz github">
+        <archivo nombre="index2.html" />
+        <archivo nombre="index2u.html" />
+        <archivo nombre="indexgoogledrive.html" />
+        <archivo nombre="index.html" />
+        <archivo nombre="lofffgo.png" />
+        <archivo nombre="logo (copia).jpg" />
+        <archivo nombre="logo333.png" />
+        <archivo nombre="logo3.jpg" />
+        <archivo nombre="logohh.jpg" />
+        <archivo nombre="logo.jpg" />
+        <archivo nombre="logo.png" />
+        <archivo nombre="logotomate.png" />
+        <archivo nombre="logwo (copia).jpg" />
+        <archivo nombre="logwo.jpg" />
+        <archivo nombre="readme (copia).md" />
+        <archivo nombre="readme.md" />
+    <Alta Técnica nombre="Alta Técnica">
+    <Sistemas de Vivienda nombre="Sistemas de Vivienda">
+        <archivo nombre="readme.md" />
+    </Sistemas de Vivienda>
+    </Alta Técnica>
+    <demo nombre="demo">
+    <demo2 nombre="demo2">
+    <demo3 nombre="demo3">
+    <demo4 nombre="demo4">
+    <demo5 nombre="demo5">
+        <archivo nombre="plano.jpg" />
+    </demo5>
+    </demo4>
+    </demo3>
+    </demo2>
+    </demo>
+    <directorio xml nombre="directorio xml">
+        <archivo nombre="1-" />
+        <archivo nombre="directorio.xml" />
+        <archivo nombre="FireShot Capture 039 - Explorador de Directorios - .png" />
+        <archivo nombre="index.html" />
+        <archivo nombre="logo.png" />
+        <archivo nombre="untdeitled" />
+        <archivo nombre="untidetled.html" />
+        <archivo nombre="untitled.html" />
+    </directorio xml>
+    <Los Juegos que Jugamos nombre="Los Juegos que Jugamos">
+        <archivo nombre="readme.md" />
+    </Los Juegos que Jugamos>
     <Terminalidad Educativa nombre="Terminalidad Educativa">
-        <archivo nombre="Biologia.pdf" />
-        <archivo nombre="Fisica.pdf" />
-        <archivo nombre="Geografia Mundial Contemporanea.pdf" />
-        <archivo nombre="Historia Argentina.pdf" />
-        <archivo nombre="Historia Mundial Contemporanea.pdf" />
-        <archivo nombre="Lengua Extranjera - Ingles.pdf" />
-        <archivo nombre="Lengua y Literatura 1.pdf" />
-        <archivo nombre="Lengua y Literatura 2.pdf" />
-        <archivo nombre="Lengua y Literatura 3.pdf" />
-        <archivo nombre="Matematica 1.pdf" />
-        <archivo nombre="Matematica 2.pdf" />
-        <archivo nombre="Matematica 3.pdf" />
-        <archivo nombre="Politica y Ciudadania.pdf" />
-        <archivo nombre="Quimica.pdf" />
-        <archivo nombre="Saberes Compartidos - Estudiantes.pdf" />
-        <archivo nombre="Saberes Compartidos - Tutores.pdf" />
-    <Inscripción Simplificada nombre="Inscripción Simplificada">
-        <archivo nombre="borradorinscripcionanses.jpg" />
-        <archivo nombre="inscripcioncerrada.jpg" />
-    </Inscripción Simplificada>
+        <archivo nombre="readme.md" />
     </Terminalidad Educativa>
+    </interfaz github>
+    <notebooks nombre="notebooks">
+    <Sentinel-2-main nombre="Sentinel-2-main">
+        <archivo nombre="README.md" />
+    <code nombre="code">
+        <archivo nombre="sentinel notebooks.zip" />
+    <0 - primeros pasos nombre="0 - primeros pasos">
+        <archivo nombre="0_Primeros_pasos.ipynb" />
+    </0 - primeros pasos>
+    <1 - Estructuras de datos nombre="1 - Estructuras de datos">
+        <archivo nombre="1-Estructuras de datos.ipynb" />
+    </1 - Estructuras de datos>
+    <2 - Imagenes nombre="2 - Imagenes">
+        <archivo nombre="2 - Imagenes.ipynb" />
+    </2 - Imagenes>
+    <3 - Colecciones de imagenes nombre="3 - Colecciones de imagenes">
+        <archivo nombre="3-Colecciones de imagenes.ipynb" />
+    <datos nombre="datos">
+        <archivo nombre="parcela_demo.cpg" />
+        <archivo nombre="parcela_demo.dbf" />
+        <archivo nombre="parcela_demo.prj" />
+        <archivo nombre="parcela_demo.qpj" />
+        <archivo nombre="parcela_demo.shp" />
+        <archivo nombre="parcela_demo.shx" />
+        <archivo nombre="parcelas_demo.cpg" />
+        <archivo nombre="parcelas_demo.dbf" />
+        <archivo nombre="parcelas_demo.prj" />
+        <archivo nombre="parcelas_demo.qpj" />
+        <archivo nombre="parcelas_demo.shp" />
+        <archivo nombre="parcelas_demo.shx" />
+    </datos>
+    </3 - Colecciones de imagenes>
+    <4 - Graficando resultados nombre="4 - Graficando resultados">
+        <archivo nombre="4- Graficando resultados.ipynb" />
+    <datos nombre="datos">
+        <archivo nombre="parcelas_grafico.cpg" />
+        <archivo nombre="parcelas_grafico.dbf" />
+        <archivo nombre="parcelas_grafico.prj" />
+        <archivo nombre="parcelas_grafico.qpj" />
+        <archivo nombre="parcelas_grafico.shp" />
+        <archivo nombre="parcelas_grafico.shx" />
+    </datos>
+    </4 - Graficando resultados>
+    <5 - Exportando resultados nombre="5 - Exportando resultados">
+        <archivo nombre="5.- Exportando resultados.ipynb" />
+    <datos nombre="datos">
+        <archivo nombre="area.cpg" />
+        <archivo nombre="area.dbf" />
+        <archivo nombre="area.prj" />
+        <archivo nombre="area.qpj" />
+        <archivo nombre="area.shp" />
+        <archivo nombre="area.shx" />
+    </datos>
+    </5 - Exportando resultados>
+    </code>
+    </Sentinel-2-main>
+    </notebooks>
+    <www.agrotecnica.ar nombre="www.agrotecnica.ar">
+        <archivo nombre="index.html" />
+        <archivo nombre="video.mp4" />
+    <assets nombre="assets">
+        <archivo nombre="bundle.js" />
+        <archivo nombre="main.css" />
+    <img nombre="img">
+        <archivo nombre="03-citizen-poi-watche22r.png" />
+        <archivo nombre="05-connect-community-phone2.png" />
+        <archivo nombre="1 (copia).png" />
+        <archivo nombre="1.png" />
+        <archivo nombre="1quito.png" />
+        <archivo nombre="2.png" />
+        <archivo nombre="3fff.png" />
+        <archivo nombre="3.png" />
+        <archivo nombre="4fff.png" />
+        <archivo nombre="4.jpg" />
+        <archivo nombre="4.png" />
+        <archivo nombre="banner-background--home.jpg" />
+        <archivo nombre="banner-background.jpeg" />
+        <archivo nombre="cityscape.png" />
+        <archivo nombre="cta-footer-bg.svg" />
+        <archivo nombre="deere.jpeg" />
+        <archivo nombre="facebook-sharing-image.png" />
+        <archivo nombre="favicon.ico" />
+        <archivo nombre="habitatlogo.png" />
+        <archivo nombre="new_ios_logo (copia).png" />
+        <archivo nombre="pdf-icon.png" />
+        <archivo nombre="sensor.wepp" />
+    <blockquotes nombre="blockquotes">
+        <archivo nombre="bq-dark.png" />
+        <archivo nombre="bq-light.png" />
+    </blockquotes>
+    <marketing nombre="marketing">
+        <archivo nombre="03-citizen-poi-watcher.png" />
+        <archivo nombre="05-connect-community-phone.png" />
+        <archivo nombre="app-button-android.png" />
+        <archivo nombre="app-button-ios.png" />
+        <archivo nombre="banner-background--home.jpg" />
+        <archivo nombre="banner-background.jpeg" />
+        <archivo nombre="cityscape.png" />
+        <archivo nombre="cta-footer-bg.svg" />
+        <archivo nombre="favicon.ico" />
+        <archivo nombre="habitatlogo.png" />
+        <archivo nombre="new_ios_logo.png" />
+        <archivo nombre="new_ios_screens.png" />
+    </marketing>
+    </img>
+    </assets>
+    </www.agrotecnica.ar>
+    <xfs nombre="xfs">
+        <archivo nombre="20210911_040611.jpg" />
+        <archivo nombre="20210911_040623.jpg" />
+        <archivo nombre="20220226_170944.jpg" />
+        <archivo nombre="20220506_154839.jpg" />
+        <archivo nombre="20221229_014655.jpg" />
+        <archivo nombre="20230302_200252.jpg" />
+        <archivo nombre="20230302_200308.jpg" />
+        <archivo nombre="20230302_200403.jpg" />
+        <archivo nombre="20230302_200622.jpg" />
+        <archivo nombre="20230302_200659.jpg" />
+        <archivo nombre="20230302_200705 (1).jpg" />
+        <archivo nombre="20230302_200705.jpg" />
+        <archivo nombre="90747b40-322a-44f9-b102-1b6c59608c2f.jpeg" />
+        <archivo nombre="IMG_6629.JPG" />
+    </xfs>
     </directorio>
 </arbol>
