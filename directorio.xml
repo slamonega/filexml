@@ -1,18 +1,15 @@
-<directories>
-    <directory path="">
-        <directory name="carpeta1">
-            <file name="archivo1.txt" size="1024" />
-            <file name="archivo2.txt" size="2048" />
-        </directory>
-        <directory name="carpeta2">
-            <file name="imagen.jpg" size="5120" />
-        </directory>
-        <file name="documento.pdf" size="4096" />
-    </directory>
-    <directory path="/carpeta1">
-        <file name="subarchivo1.txt" size="3072" />
-    </directory>
-    <directory path="/carpeta2">
-        <file name="subarchivo2.jpg" size="10240" />
-    </directory>
-</directories>
+<directorio>
+    <carpeta nombre="Proyectos">
+        <archivo nombre="proyecto1.txt" tamaño="1024" />
+        <archivo nombre="proyecto2.docx" tamaño="2048" />
+        <carpeta nombre="Subcarpeta1">
+            <archivo nombre="subarchivo1.pdf" tamaño="512" />
+            <archivo nombre=".archivo_oculto" tamaño="256" />
+        </carpeta>
+    </carpeta>
+    <carpeta nombre="Documentos">
+        <archivo nombre="informe.pdf" tamaño="4096" />
+        <archivo nombre="README.md" tamaño="1024"># Bienvenido al directorio</archivo>
+    </carpeta>
+    <archivo nombre=".config" tamaño="128" />
+</directorio>
