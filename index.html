@@ -24,7 +24,7 @@
         }
         .breadcrumb-item + .breadcrumb-item::before {
             content: '/';
-            padding: 0 8px;
+            padding: 0 0px;
             color: #9F715F;
         }
         .breadcrumb-item a {
@@ -38,9 +38,10 @@
             padding: 1rem;
             font-size: 1.3rem;
             cursor: pointer;
+            border: none; /* Eliminar bordes */
         }
         .list-group-item:hover {
-            background-color: #eee;
+            background-color: #fff;
         }
         .list-group-item i {
             font-size: 2rem;
@@ -52,6 +53,7 @@
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
+            color: #9F715F; /* Igualar color de los nombres al de los iconos */
         }
         .container {
             max-width: 800px;
@@ -60,7 +62,7 @@
             margin-top: 2rem;
             padding: 1rem;
             background-color: #fff;
-            border: 1px solid #ddd;
+            border: none;
             font-size: 1rem;
             color: #9F715F;
         }
