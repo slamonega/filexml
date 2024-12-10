@@ -1,15 +1,73 @@
-<directorio>
-    <carpeta nombre="Proyectos">
-        <archivo nombre="proyecto1.txt" tamaño="1024" />
-        <archivo nombre="proyecto2.docx" tamaño="2048" />
-        <carpeta nombre="Subcarpeta1">
-            <archivo nombre="subarchivo1.pdf" tamaño="512" />
-            <archivo nombre=".archivo_oculto" tamaño="256" />
-        </carpeta>
-    </carpeta>
-    <carpeta nombre="Documentos">
-        <archivo nombre="informe.pdf" tamaño="4096" />
-        <archivo nombre="README.md" tamaño="1024"># Bienvenido al directorio</archivo>
-    </carpeta>
-    <archivo nombre=".config" tamaño="128" />
-</directorio>
+<?xml version="1.0" encoding="UTF-8"?>
+<arbol nombre="raiz">
+    <!-- Directorios principales -->
+    <directorio nombre="Documentos">
+        <archivo nombre="curriculum.pdf" />
+        <archivo nombre="proyecto.docx" />
+        <archivo nombre="presupuesto.xlsx" />
+    </directorio>
+    <directorio nombre="Imágenes">
+        <archivo nombre="vacaciones.jpg" />
+        <archivo nombre="perfil.png" />
+        <directorio nombre="Familia">
+            <archivo nombre="foto1.jpg" />
+            <archivo nombre="foto2.png" />
+        </directorio>
+        <directorio nombre="Viajes">
+            <archivo nombre="paris.jpg" />
+            <archivo nombre="roma.png" />
+            <archivo nombre="berlin.jpg" />
+        </directorio>
+    </directorio>
+    <directorio nombre="Música">
+        <archivo nombre="rock.mp3" />
+        <archivo nombre="jazz.mp3" />
+        <directorio nombre="Clásica">
+            <archivo nombre="beethoven.mp3" />
+            <archivo nombre="mozart.mp3" />
+        </directorio>
+    </directorio>
+    <directorio nombre="Videos">
+        <archivo nombre="pelicula.mp4" />
+        <archivo nombre="trailer.mov" />
+        <directorio nombre="Tutoriales">
+            <archivo nombre="javascript.mp4" />
+            <archivo nombre="python.mov" />
+        </directorio>
+    </directorio>
+    <directorio nombre="Proyectos">
+        <archivo nombre="readme.md" />
+        <archivo nombre="index.html" />
+        <archivo nombre="script.js" />
+        <archivo nombre="style.css" />
+        <directorio nombre="Subproyecto1">
+            <archivo nombre="main.py" />
+            <archivo nombre="utils.py" />
+        </directorio>
+        <directorio nombre="Subproyecto2">
+            <archivo nombre="app.js" />
+            <archivo nombre="routes.js" />
+        </directorio>
+    </directorio>
+    <directorio nombre="Otros">
+        <archivo nombre="lista_compras.txt" />
+        <archivo nombre="notas.txt" />
+        <archivo nombre="ideas.md" />
+        <directorio nombre="Personal">
+            <archivo nombre="diario.txt" />
+            <archivo nombre="contraseñas.txt" />
+        </directorio>
+    </directorio>
+
+    <!-- Archivos en la raíz -->
+    <archivo nombre="archivo1.txt" />
+    <archivo nombre="archivo2.txt" />
+    <archivo nombre="archivo3.txt" />
+    <archivo nombre="archivo4.txt" />
+    <archivo nombre="archivo5.txt" />
+    <archivo nombre="archivo6.txt" />
+    <archivo nombre="archivo7.txt" />
+    <archivo nombre="archivo8.txt" />
+    <archivo nombre="archivo9.txt" />
+    <archivo nombre="archivo10.txt" />
+</arbol>
