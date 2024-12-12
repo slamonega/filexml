@@ -65,7 +65,7 @@
         .file-info {
             display: flex;
             align-items: center;
-            max-width: 70%;
+            max-width: 100%; /* Ajuste del ancho para más espacio en los nombres */
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -77,10 +77,6 @@
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
-        }
-
-        .file-size {
-            color: #9F715F; /* Tamaño de archivo en color #9F715F */
         }
 
         .container {
@@ -147,17 +143,6 @@
 
     const excludedFiles = ['index.html', 'logo.jpg', 'readme.md', 'logo.png'];
 
-    function formatSize(size) {
-        if (size === null) return '-';
-        const units = ['B', 'KB', 'MB', 'GB'];
-        let i = 0;
-        while (size >= 1024 && i < units.length - 1) {
-            size /= 1024;
-            i++;
-        }
-        return `${size.toFixed(2)} ${units[i]}`;
-    }
-
     async function fetchRepoFiles(path) {
         const response = await fetch(`${apiBase}/${owner}/${repo}/contents/${path}`);
         const files = await response.json();
@@ -181,7 +166,7 @@
         // Mostrar archivos y directorios directamente
         filteredFiles.forEach(file => {
             const li = document.createElement('li');
-            li.className = "list-group-item d-flex justify-content-between align-items-center file-item";
+            li.className = "list-group-item d-flex align-items-center file-item";
 
             const fileInfo = document.createElement('div');
             fileInfo.className = 'file-info d-flex align-items-center';
@@ -209,11 +194,6 @@
             fileInfo.appendChild(icon);
             fileInfo.appendChild(fileName);
             li.appendChild(fileInfo);
-
-            const size = document.createElement('div');
-            size.className = 'file-size';
-            size.textContent = file.size ? formatSize(file.size) : '-';
-            li.appendChild(size);
 
             fileList.appendChild(li);
         });
