@@ -1,11 +1,14 @@
-## Diplomatura en Soberanía Alimentaria de la Universidad Nacional del Sur
+## La Diplomatura en Grupo es un programa simple. Un sistema semilla de premisas y conjuros. Una planificación a varias lunas en el tiempo. Solidaria del devenir de lo venidero, la diplomatura en Soberanía Alimentaria de la Universidad Nacional del Sur es sobre todo raíz y subsuelo.
 
-Una diplomatura es un curso extracurricular que ofrece capacitación y aprendizaje a la comunidad universitaria y a la sociedad en general. Las diplomaturas no son carreras de pregrado, grado o posgrado, y no otorgan títulos habilitantes para el ejercicio profesional.
+- Una huerta de invierno y otra de verano.
+- Cinco variedades de conserva.
+- Un compost.
+- Tres soluciones tecnológicas.
+- Tres variedades de fermentos.
+- Diez recetas saludables.
 
-## Las diplomaturas pueden ofrecer:
+En equipos de tres.
 
-- Especialización o actualización en un ámbito concreto.
-- Formación artístico-profesional.
-- Generación de habilidades de empleabilidad.
-- Mejora de competencias para quienes ya están insertos en el mercado laboral.
-- Complementación de conocimientos de otras disciplinas.
+-Un informe descriptivo de cada hecho.
+
+## En cualquier lugar, en cualquier momento, no hace falta inscribirse, cuando tienen todo hecho y bien documentado, lo evaluamos, solo se puede presentar una sola vez los informes descriptivos, no hay recuperatorio.
